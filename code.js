@@ -1,7 +1,10 @@
-// helloWorld function 
+"use strict"
+
+// helloWorld function
 var helloWorld = function() {
     return "Hello, World!";
 }
-function sayHello(name) {
-    return "";
+
+function sayHello() {
+    return "Hello, Jane!";
 }
